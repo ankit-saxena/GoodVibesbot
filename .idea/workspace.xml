@@ -300,7 +300,11 @@
       <created>1403273259943</created>
       <updated>1403273259944</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit with following the retweeted used">
+      <created>1403273270599</created>
+      <updated>1403273270599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
